@@ -58,7 +58,7 @@ body {
 
 .portada {
     background-image: url('../img/Nintendo-64-wController-L.jpg');
-    color:#FF0000;
+    color: red ;
     padding: 20px;
 }
 
